@@ -1,9 +1,8 @@
 {
   "name": "vue-calendar",
   "version": "1.0.0",
-  "description": "vue-js-calendar-app,
+  "description": "Ultimate Vue.js calendar-app",
   "main": "server.js",
- 
   "repository": {
     "type": "git",
     "url": "https://github.com/jeff-mccommas/vuejs-calendar.git"
