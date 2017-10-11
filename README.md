@@ -1,12 +1,6 @@
-# Ultimate Vue.js Developers Course
 
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
 
 ### Project 3: Vue.js Calendar
-
-#### Demo
-
-See the completed project here: [http://vuejs-calendar.vuejsdevelopers.com/](http://vuejs-calendar.vuejsdevelopers.com/)
 
 #### Pre-installation
 
@@ -21,11 +15,6 @@ See the completed project here: [http://vuejs-calendar.vuejsdevelopers.com/](htt
     1. Fork this repository (see top right corner)
     2. Clone the forked repository on your local file system
     
-        ```
-        cd /path/to/install/location
-        
-        git clone git@github.com:[your_username]/vuejs-calendar.git
-        ```
     
     **Option 2 (easier)**
     
@@ -34,7 +23,7 @@ See the completed project here: [http://vuejs-calendar.vuejsdevelopers.com/](htt
     ```
     cd /path/to/install/location
     
-    git clone https://github.com/vuejsdevelopers/vuejs-calendar.git
+    git clone https://github.com/jeff-mccommas/vuejs-calendar.git
     ```    
    
 2. Install dependencies
